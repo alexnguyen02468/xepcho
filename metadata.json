@@ -1,0 +1,6 @@
+{
+  "name": "Xếp Chỗ Ngồi Thực Hành",
+  "description": "Ứng dụng xếp chỗ ngồi phòng máy thực hành tin học 35 tuần luân phiên, thống kê phân bổ máy và xuất file Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
